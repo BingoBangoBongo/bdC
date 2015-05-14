@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+// FAC_table from sqlserver to C#
 namespace Access
 {
     public partial class FormFACs : Form

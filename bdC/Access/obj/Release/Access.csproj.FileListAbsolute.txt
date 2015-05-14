@@ -15,3 +15,6 @@ D:\Debug\Access\Access\obj\Release\Access.pdb
 D:\Debug\ЛАБА 9 ШАПРАН КН-2\ЛАБА 9 ПРОГРАММА\Access\bin\Release\Access.exe.config
 D:\Debug\ЛАБА 9 ШАПРАН КН-2\ЛАБА 9 ПРОГРАММА\Access\obj\Release\Access.exe
 D:\Debug\ЛАБА 9 ШАПРАН КН-2\ЛАБА 9 ПРОГРАММА\Access\obj\Release\Access.pdb
+D:\bdC\bdC\Access\bin\Release\Access.exe.config
+D:\bdC\bdC\Access\obj\Release\Access.exe
+D:\bdC\bdC\Access\obj\Release\Access.pdb

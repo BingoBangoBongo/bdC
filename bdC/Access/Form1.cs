@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//db_SELHOSRABOIT from sqlServer to c#
 namespace Access
 {
     public partial class Form1 : Form
@@ -91,7 +91,8 @@ namespace Access
             //report1.RegisterData(dB_SELHOZRABOTIDataSet1.);
             //report1.RegisterData(dB_SELHOZRABOTIDataSet2);
             report1.Show();
-            
+            
+
         }
 
         private void отчетВСвободнойФормеToolStripMenuItem_Click(object sender, EventArgs e)
