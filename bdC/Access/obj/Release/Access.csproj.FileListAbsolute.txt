@@ -1,0 +1,17 @@
+D:\Debug\Access\Access\bin\Release\Access.exe.config
+D:\Debug\Access\Access\bin\Release\Access.exe
+D:\Debug\Access\Access\bin\Release\Access.pdb
+D:\Debug\Access\Access\obj\Release\Access.Form1.resources
+D:\Debug\Access\Access\obj\Release\Access.FormFACs.resources
+D:\Debug\Access\Access\obj\Release\Access.FormProcedure.resources
+D:\Debug\Access\Access\obj\Release\Access.FormProcedure2.resources
+D:\Debug\Access\Access\obj\Release\Access.FormProcedure3.resources
+D:\Debug\Access\Access\obj\Release\Access.FormStudents.resources
+D:\Debug\Access\Access\obj\Release\Access.FormWorks.resources
+D:\Debug\Access\Access\obj\Release\Access.Properties.Resources.resources
+D:\Debug\Access\Access\obj\Release\Access.csproj.GenerateResource.Cache
+D:\Debug\Access\Access\obj\Release\Access.exe
+D:\Debug\Access\Access\obj\Release\Access.pdb
+D:\Debug\ЛАБА 9 ШАПРАН КН-2\ЛАБА 9 ПРОГРАММА\Access\bin\Release\Access.exe.config
+D:\Debug\ЛАБА 9 ШАПРАН КН-2\ЛАБА 9 ПРОГРАММА\Access\obj\Release\Access.exe
+D:\Debug\ЛАБА 9 ШАПРАН КН-2\ЛАБА 9 ПРОГРАММА\Access\obj\Release\Access.pdb
